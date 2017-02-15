@@ -6,5 +6,9 @@
 		"default_popup": "index.html",
 		"default_icon": "icon19.png",
 		"default_title": "title"
+	},
+
+	"background":{
+		"scripts":["background.js"]
 	}
 }
